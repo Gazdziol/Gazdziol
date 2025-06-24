@@ -1,8 +1,8 @@
 ### Hi, I'm Dawid!
-👨🏻‍💻 High school student passionate about programming and tech
-🎓 Currently in my 5th year at a technical school, studying IT
-🐍 Learning a lot these days—especially focusing on Python
-🛠️ Exploring software development and building projects for fun
+👨🏻‍💻 High school student passionate about programming and tech<br>
+🎓 Currently in my 5th year at a technical school, studying IT<br>
+🐍 Learning a lot these days—especially focusing on Python<br>
+🛠️ Exploring software development and building projects for fun<br>
 🌱 Sharing my coding journey and progress as I grow in tech
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
